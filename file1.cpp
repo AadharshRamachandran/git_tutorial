@@ -1,5 +1,8 @@
 #include<bits/stdc++.h>
-using nmaespace std;
+using namespace std;
 int main(){
-cout<<"Hello World"<<endl;
+string s;
+cout<<"Enter your name : ";
+cin>>s;
+cout<<"Hello "<<s<<endl;
 }
